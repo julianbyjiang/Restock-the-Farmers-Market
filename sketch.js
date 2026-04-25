@@ -1,8 +1,7 @@
 // README
 /*
 Restock the Farmer's Market 
-Julian Bi Ying Jiang, 21183831
-jbyjiang
+Julian Bi Ying Jiang
 
 INSTRUCTIONS
 The goal of the game is to throw all the moldy produce (the fruits and vegetables) into the garbage and restock the bins of produce with fresh produce from the basket. 
